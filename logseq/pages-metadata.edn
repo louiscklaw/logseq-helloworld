@@ -1,18 +1,6 @@
-[{:block/name "@logseq",
-  :block/created-at 1664617147445,
-  :block/updated-at 1664617147445}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
- {:block/name "advanced commands",
-  :block/created-at 1664617147386,
-  :block/updated-at 1664617147386}
- {:block/name "advanced logseq",
-  :block/created-at 1664617147432,
-  :block/updated-at 1664617147432}
- {:block/name "advanced queries",
-  :block/created-at 1664617147436,
-  :block/updated-at 1664617147436}
  {:block/name "aliases and external links",
   :block/created-at 1664617147348,
   :block/updated-at 1664617147348}
@@ -22,9 +10,6 @@
  {:block/name "c",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
- {:block/name "calculator",
-  :block/created-at 1664617147409,
-  :block/updated-at 1664617147409}
  {:block/name "canceled",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
@@ -34,54 +19,24 @@
  {:block/name "card",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
- {:block/name "cards",
-  :block/created-at 1664617147403,
-  :block/updated-at 1664617147403}
  {:block/name "changelog",
   :block/created-at 1664617147362,
   :block/updated-at 1664617147362}
- {:block/name "commands",
-  :block/created-at 1664617147385,
-  :block/updated-at 1664617147385}
  {:block/name "contents",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
- {:block/name "contribute",
-  :block/created-at 1664617147443,
-  :block/updated-at 1664617147443}
- {:block/name "custom keyboard shortcuts",
-  :block/created-at 1664617147433,
-  :block/updated-at 1664617147433}
- {:block/name "custom theme",
-  :block/created-at 1664617147411,
-  :block/updated-at 1664617147411}
- {:block/name "custom views",
-  :block/created-at 1664617147439,
-  :block/updated-at 1664617147439}
- {:block/name "document syntax",
-  :block/created-at 1664617147423,
-  :block/updated-at 1664617147423}
  {:block/name "doing",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
  {:block/name "done",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
- {:block/name "draw",
-  :block/created-at 1664617147405,
-  :block/updated-at 1664617147405}
- {:block/name "embed media - audio, photos, videos",
-  :block/created-at 1664617147414,
-  :block/updated-at 1664617147414}
  {:block/name "faq",
   :block/created-at 1664617147366,
   :block/updated-at 1664617147366}
  {:block/name "favorites",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
- {:block/name "features",
-  :block/created-at 1664617147371,
-  :block/updated-at 1664617147371}
  {:block/name "getting started with the journals page",
   :block/created-at 1664617147344,
   :block/updated-at 1664617147344}
@@ -91,9 +46,6 @@
  {:block/name "hello-page1",
   :block/created-at 1663138995870,
   :block/updated-at 1663138995870}
- {:block/name "hiccup",
-  :block/created-at 1664617147437,
-  :block/updated-at 1664617147437}
  {:block/name
   "how to create a logseq graph using existing markdown files",
   :block/created-at 1664617147341,
@@ -116,21 +68,9 @@
  {:block/name "in-progress",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
- {:block/name "knowledge graph",
-  :block/created-at 1664617147377,
-  :block/updated-at 1664617147377}
  {:block/name "later",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
- {:block/name "logseq school",
-  :block/created-at 1664617147416,
-  :block/updated-at 1664617147416}
- {:block/name "markdown",
-  :block/created-at 1664617147425,
-  :block/updated-at 1664617147425}
- {:block/name "migrate to logseq beta",
-  :block/created-at 1664617147441,
-  :block/updated-at 1664617147441}
  {:block/name "new to logseq?",
   :block/created-at 1664617147335,
   :block/updated-at 1664617147335}
@@ -140,66 +80,15 @@
  {:block/name "oct 1st, 2022",
   :block/created-at 1664617147017,
   :block/updated-at 1664617147017}
- {:block/name "org mode",
-  :block/created-at 1664617147427,
-  :block/updated-at 1664617147427}
- {:block/name "page and block embeds",
-  :block/created-at 1664617147381,
-  :block/updated-at 1664617147381}
- {:block/name "page and block references",
-  :block/created-at 1664617147378,
-  :block/updated-at 1664617147378}
- {:block/name "pdf highlights",
-  :block/created-at 1664617147402,
-  :block/updated-at 1664617147402}
- {:block/name "plugins 01",
-  :block/created-at 1664617147418,
-  :block/updated-at 1664617147418}
- {:block/name "plugins 02 - build a mind map plugin",
-  :block/created-at 1664617147421,
-  :block/updated-at 1664617147421}
- {:block/name "publishing (desktop app only)",
-  :block/created-at 1664617147401,
-  :block/updated-at 1664617147401}
- {:block/name "queries",
-  :block/created-at 1664617147435,
-  :block/updated-at 1664617343631}
  {:block/name "readme",
   :block/created-at 1663137125515,
   :block/updated-at 1663137125515}
  {:block/name "sep 14th, 2022",
   :block/created-at 1663137067524,
   :block/updated-at 1663137072496}
- {:block/name "settings",
-  :block/created-at 1664617147428,
-  :block/updated-at 1664617147428}
- {:block/name "slide",
-  :block/created-at 1664617147407,
-  :block/updated-at 1664617147407}
- {:block/name "start here",
-  :block/created-at 1664617147582,
-  :block/updated-at 1664617147582}
- {:block/name "tasks & todos",
-  :block/created-at 1664617147383,
-  :block/updated-at 1664617147383}
- {:block/name "templates",
-  :block/created-at 1664617147388,
-  :block/updated-at 1664617147388}
  {:block/name "term",
   :block/created-at 1664617147399,
   :block/updated-at 1664617147399}
- {:block/name "term/alias",
-  :block/created-at 1664617147390,
-  :block/updated-at 1664617147390}
- {:block/name "term/backlink",
-  :block/created-at 1664617147373,
-  :block/updated-at 1664617147373}
- {:block/name "term/properties",
-  :block/created-at 1664617147398,
-  :block/updated-at 1664617147398}
- {:block/name "testimonials",
-  :block/created-at 1664617147369,
-  :block/updated-at 1664617147369}
  {:block/name "the basics of block references",
   :block/created-at 1664617147353,
   :block/updated-at 1664617147353}
@@ -210,9 +99,6 @@
  {:block/name "the difference between block embeds and page embeds",
   :block/created-at 1664617147357,
   :block/updated-at 1664617147357}
- {:block/name "tips and tricks",
-  :block/created-at 1664617147430,
-  :block/updated-at 1664617147430}
  {:block/name "todo",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
@@ -229,8 +115,5 @@
   :block/created-at 1664617147350,
   :block/updated-at 1664617147350}
  {:block/name "why linking matters",
-  :block/created-at 1664617147347,
-  :block/updated-at 1664617147347}
- {:block/name "zotero",
-  :block/created-at 1664617147413, 
-  :block/updated-at 1664617147413}]
+  :block/created-at 1664617147347, 
+  :block/updated-at 1664617147347}]
