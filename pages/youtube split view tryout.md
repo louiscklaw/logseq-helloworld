@@ -11,15 +11,15 @@
   https://aboutme.louislabs.com/project-details/youtube-splitview-tryout/#poc-demo
 - [https://louiscklaw.github.io/youtube-split-view-tryout/](https://louiscklaw.github.io/youtube-split-view-tryout/)
 -
+- ### Demo:
+  https://aboutme.louislabs.com/project-details/youtube-splitview-tryout/#demo
 -
-- References / Repositories:
+-
+- ### References / Repositories:
   https://aboutme.louislabs.com/project-details/youtube-splitview-tryout/#references-or-repositories
 - [louiscklaw/youtube-split-view-tryout](https://www.github.com/louiscklaw/youtube-split-view-tryout)
-  
-  [](https://www.github.com/louiscklaw/youtube-split-view-tryout)
-- [](https://www.github.com/louiscklaw/youtube-split-view-tryout)
-  
-  other youtube solution:
+-
+- ### other youtube solution:
   https://aboutme.louislabs.com/project-details/youtube-splitview-tryout/#other-youtube-solution
 - [http://afterglowplayer.com/](http://afterglowplayer.com/)
 -
