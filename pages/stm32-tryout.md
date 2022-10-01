@@ -1,2 +1,4 @@
 - #kicad #stm32
+- https://github.com/louiscklaw/follower-counter-tryout
+- https://github.com/louiscklaw/3D-printer-board
 -
