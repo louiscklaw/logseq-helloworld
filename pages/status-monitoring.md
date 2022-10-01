@@ -1,4 +1,7 @@
+- #status-monitoring
 - upptime
+	- https://louiscklaw.github.io/upptime-playlist/
 - uptime-kuma
+	- http://192.168.10.61:50102/dashboard
 - healthcheck
-	-
+	- https://healthcheck.iamon99.com/accounts/login/
