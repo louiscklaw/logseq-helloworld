@@ -24,3 +24,19 @@ $ source venv/bin/activate
   $ python behave
   $ behave ./features/HKOApp_9DayForecast.feature
   ```
+### stack on MAC machine:
+
+```
+brew cask install visual-studio-code
+brew install zsh-history-substring-search
+brew install zsh
+brew install zsh-lovers
+brew install zsh-autosuggestions
+brew install zsh-navigation-tools
+brew install zsh-completions
+brew install zsh-syntax-highlighting
+brew install zsh-git-prompt
+brew install zshdb
+brew install git-flow
+```
+-
