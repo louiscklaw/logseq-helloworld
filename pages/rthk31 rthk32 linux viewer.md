@@ -10,9 +10,10 @@
 	- python3, curl, gnome-mpv
 -
 - ### Install:
-  ](https://aboutme.louislabs.com/project-details/rthk31-rthk32-linux-viewer/#how-to-install)
-  
-  open ~/.bashrc or ~/.zshrc and paste the following source into itlogout linux -> logindone
+  https://aboutme.louislabs.com/project-details/rthk31-rthk32-linux-viewer/#how-to-install
+-
+- ```
+  open ~/.bashrc or ~/.zshrc and paste the following source into itlogout linux -> logindone```
   
   [### Source:
   ](https://aboutme.louislabs.com/project-details/rthk31-rthk32-linux-viewer/#source)
