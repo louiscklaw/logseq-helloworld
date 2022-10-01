@@ -18,10 +18,10 @@
 - ```#+BEGIN_EXPORT hiccup
   [:figure {} [:img {:src "https://aboutme.louislabs.com/visual_regression.png"}] [:figcaption {} "sample of visual regression test"]]
   #+END_EXPORT
-- ```
--
-- Merge
-- Deploy
+  - ```
+  -
+  - Merge
+  - Deploy
   
   
   ```#+BEGIN_EXPORT hiccup
