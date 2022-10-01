@@ -4,5 +4,5 @@
 - [[hk data search board]]
 - [[hko weather bot tryout]]
 - [[my-linux-toolbox]]
-- [[firebase]]
+- [[firebase-playlist]]
 -
