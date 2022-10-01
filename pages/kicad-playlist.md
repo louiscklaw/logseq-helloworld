@@ -1,3 +1,4 @@
 - #pcb #kicad
 - https://github.com/louiscklaw/Tinkerforge-kicad-libraries
+- https://github.com/louiscklaw/esp32-playlist
 -
