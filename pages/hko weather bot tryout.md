@@ -5,7 +5,5 @@
 - ### References / Repositories:
 	- https://aboutme.louislabs.com/*#references-or-repositories
 	- https://www.github.com/louiscklaw/hko-weather-slackbot
-- [](https://www.github.com/slackapi/python-slackclient)
-  
-  [](https://www.github.com/slackapi/python-slackclient)
 -
+- slackapi/python-slackclient
