@@ -1,4 +1,4 @@
-- [[Tradingview Dashboard]]
+- [[tradingview-dashboard]]
 - [[appium-behave-notes]]
 - [[Allwinner v3s tryout]]
 - [[hk data search board]]
