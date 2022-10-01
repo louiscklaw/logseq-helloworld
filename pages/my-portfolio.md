@@ -32,14 +32,14 @@
   https://aboutme.louislabs.com/project-details/portfolio-tryout/#some-information
 -
 - production site: [https://louiscklaw.github.io/](https://louiscklaw.github.io/)
-- https://louiscklaw.github.io/
+- https://louiscklaw.github.io/ #github
 - ### References / Repositories:
   https://aboutme.louislabs.com/project-details/portfolio-tryout/#references-or-repositories
-- [https://github.com/louiscklaw/portfolio-gatsby](https://github.com/louiscklaw/portfolio-gatsby)
+- [https://github.com/louiscklaw/portfolio-gatsby](https://github.com/louiscklaw/portfolio-gatsby) #github
 -
 - ### source code:
-	- https://github.com/louiscklaw/hugo-PaperMod
-	- https://github.com/louiscklaw/louiscklaw.github.io-hugo
+	- https://github.com/louiscklaw/hugo-PaperMod #github
+	- https://github.com/louiscklaw/louiscklaw.github.io-hugo #github
 	-
 -
 - ### links:
