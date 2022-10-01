@@ -14,7 +14,6 @@
 - ### Demo:
   https://aboutme.louislabs.com/project-details/youtube-splitview-tryout/#demo
 -
--
 - ### References / Repositories:
   https://aboutme.louislabs.com/project-details/youtube-splitview-tryout/#references-or-repositories
 - [louiscklaw/youtube-split-view-tryout](https://www.github.com/louiscklaw/youtube-split-view-tryout)
