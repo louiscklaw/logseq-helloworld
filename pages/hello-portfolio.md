@@ -1,5 +1,5 @@
 - [[Tradingview Dashboard]]
-- [[appium behave notes]]
+- [[appium-behave-notes]]
 - [[Allwinner v3s tryout]]
 - [[hk data search board]]
 - [[hko weather bot tryout]]
