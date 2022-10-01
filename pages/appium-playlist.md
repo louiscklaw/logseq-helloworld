@@ -1,3 +1,5 @@
 -
 - ### resources:
 	- https://github.com/louiscklaw/appium-playlist #github
+	- [fastmac-tryout](https://github.com/louiscklaw/fastmac-tryout)
+	-
