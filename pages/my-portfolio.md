@@ -1,6 +1,6 @@
 - #testing #ci
 - ### Background information:
-  https://aboutme.louislabs.com/project-details/portfolio-tryout/#background-information
+  
   
   This is my portfolio.
   This website contains my project information.
