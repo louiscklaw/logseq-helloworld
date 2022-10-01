@@ -1,4 +1,5 @@
 - [taobao-transport](https://docs.google.com/spreadsheets/d/1jdimi5kt6ZOkYph96k6EpsICYtSJzco6G3WuXQVoF4o/edit)
 -
--
--
+- - [x] #739
+  - [ ] https://github.com/octo-org/octo-repo/issues/740
+  - [ ] Add delight to the experience when all tasks are complete :tada:
