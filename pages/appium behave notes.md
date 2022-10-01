@@ -41,8 +41,8 @@ brew install git-flow
 ```
 -
 - ### pass example
-- {{ embed https://www.youtube.com/watch?v=Ce-v1zTHhwU}}
+- {{video https://www.youtube.com/watch?v=Ce-v1zTHhwU}}
 -
 - ### fail example
--
+- {{video }}
 -
