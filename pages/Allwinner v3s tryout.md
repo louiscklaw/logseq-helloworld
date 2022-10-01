@@ -6,12 +6,15 @@
 	- https://aboutme.louislabs.com/project-details/allwinner-v3s-tryout/#progress
 	  
 	  Currently in progress with the second try.
-	  
-	  [### The second try CHANGE LOG:
-	  ](https://aboutme.louislabs.com/project-details/allwinner-v3s-tryout/#the-second-try-change-log)
-- fix SVREF wire
-- 4k7 on SDIO CLK wire
-- fix power facilities
-- add GL827L sdcard reading facilities
-- add ATMega328p for power and reset control
-- add USB to serial
+- ### The second try CHANGE LOG:
+	- https://aboutme.louislabs.com/project-details/allwinner-v3s-tryout/#the-second-try-change-log
+	- fix SVREF wire
+	- 4k7 on SDIO CLK wire
+	- fix power facilities
+	- add GL827L sdcard reading facilities
+	- add ATMega328p for power and reset control
+	- add USB to serial
+-
+- ### Buildroot:
+  https://aboutme.louislabs.com/project-details/allwinner-v3s-tryout/#buildroot
+- to setup ubuntu/docker for buildroot(tested under 18.04)
