@@ -28,21 +28,18 @@
 -
 -
 -
-- [### References / Repositories:
-  ](https://aboutme.louislabs.com/project-details/allwinner-v3s-tryout/#references-or-repositories)
+- ### References / Repositories:
+	- https://aboutme.louislabs.com/project-details/allwinner-v3s-tryout/#references-or-repositories
+-
 - [louiscklaw/allwinner-v3s-tryout](https://www.github.com/louiscklaw/allwinner-v3s-tryout)
-  
-  [](https://www.github.com/louiscklaw/allwinner-v3s-tryout)- 
-  
-  [](https://www.github.com/louiscklaw/allwinner-v3s-tryout)
 - [https://www.reddit.com/r/electronics/comments/83141t/i_made_an_allwinner_v3s_evaluation_board_based/](https://www.reddit.com/r/electronics/comments/83141t/i_made_an_allwinner_v3s_evaluation_board_based/)
-- [](https://www.reddit.com/r/electronics/comments/83141t/i_made_an_allwinner_v3s_evaluation_board_based/)
-  
-  [### BOM/Part list:
-  ](https://aboutme.louislabs.com/project-details/allwinner-v3s-tryout/#bom-or-part-list)
+-
+- ### BOM/Part list:
+  https://aboutme.louislabs.com/project-details/allwinner-v3s-tryout/#bom-or-part-list
+-
 - To be updated
   
-  [](https://aboutme.louislabs.com/project-list)
+  
   
   [](https://aboutme.louislabs.com/project-list)
 -
