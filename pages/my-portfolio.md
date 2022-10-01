@@ -15,24 +15,20 @@
 - transverse to some key page of the site to get screenshot
 - compare with the expected one(which is last accepted screenshot)
 - if the error greater than threshold, regards as fail
-- ```#+BEGIN_EXPORT hiccup
+- ```
   [:figure {} [:img {:src "https://aboutme.louislabs.com/visual_regression.png"}] [:figcaption {} "sample of visual regression test"]]
-  #+END_EXPORT
-  - ```
+  ```
   -
   - Merge
   - Deploy
-  
-  
-  ```#+BEGIN_EXPORT hiccup
-  [:figure {} [:img {:src "https://aboutme.louislabs.com/aa0046e8fe670d49100c7281f976c0d9.svg"}] [:figcaption {}]]
-  #+END_EXPORT
+- [:figure {} [:img {:src "https://aboutme.louislabs.com/aa0046e8fe670d49100c7281f976c0d9.svg"}] [:figcaption {}]]
 -
 - ### Some information:
   https://aboutme.louislabs.com/project-details/portfolio-tryout/#some-information
 -
-- production site: [https://louiscklaw.github.io/](https://louiscklaw.github.io/)
+- ### production site:
 - https://louiscklaw.github.io/ #github
+-
 - ### References / Repositories:
   https://aboutme.louislabs.com/project-details/portfolio-tryout/#references-or-repositories
 - [https://github.com/louiscklaw/portfolio-gatsby](https://github.com/louiscklaw/portfolio-gatsby) #github
