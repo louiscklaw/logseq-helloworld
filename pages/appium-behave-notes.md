@@ -1,4 +1,4 @@
-- #appium #docker #android #testing
+- #appium-playlist #docker #android #testing
 - ### Purpose:
 	- to test mobile apps of hk observatory
 	  environment:
