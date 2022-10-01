@@ -1,4 +1,4 @@
-- #youtube #javascript
+- #youtube #javascript #webapp
 - ### Purpose:
   https://aboutme.louislabs.com/project-details/youtube-splitview-tryout/#purpose
 - this is a youtube/mpv viewer working in browser to let you monitor around 20 channel in same screen.
