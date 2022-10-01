@@ -1,6 +1,6 @@
-- #traefik-tags
+- #traefik-tags #api
 - ### Purpose:
 	- My personal tryout for traefik API router.
 - ### References / Repositories:
 	- [louiscklaw/traefik-tryout](https://www.github.com/louiscklaw/traefik-tryout)
--
+	- http://192.168.10.61:8080/dashboard
