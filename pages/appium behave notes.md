@@ -44,5 +44,5 @@ brew install git-flow
 - {{video https://www.youtube.com/watch?v=Ce-v1zTHhwU}}
 -
 - ### fail example
-- {{video }}
+- {{video https://www.youtube.com/watch?v=uR8VLSwvf9Q}}
 -
