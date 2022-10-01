@@ -1,4 +1,4 @@
-- #youtube #javascript #webapp
+- #youtube #javascript #webapp #youtube-playlist
 - ### Purpose:
 	- this is a youtube/mpv viewer working in browser to let you monitor around 20 channel in same screen.
 -
