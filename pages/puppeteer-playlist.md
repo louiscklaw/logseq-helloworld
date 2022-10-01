@@ -1,3 +1,4 @@
-- #testing #scape #javascript #test-automation
+- #testing #scape #javascript #test-automation #python
+- pypuppeteer
 -
 - https://www.github.com/louiscklaw/puppeteer-playlist
