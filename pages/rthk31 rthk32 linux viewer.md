@@ -32,30 +32,28 @@
   https://aboutme.louislabs.com/project-details/rthk31-rthk32-linux-viewer/#to-watch-youtube-under-linux
 -
 - to install
-  
   ```
   pip3 install install youtube-dl mps-youtube==0.2.7
   ```
   
   to use
-  
   ```
   mpsyt playurl https://www.youtube.com/watch?v=wcnBl6gNIhQ
   ```
-### to watch ViuTV under linux:
-
-https://aboutme.louislabs.com/project-details/rthk31-rthk32-linux-viewer/#to-watch-viutv-under-linux
-to install
-
-```
-$ mpv http://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
-$ mpv http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-```
-
-to watch CableTV under linux
-
-```
-$ mpv http://media.fantv.hk/m3u8/archive/channel2.m3u8
-```
-
-[](https://aboutme.louislabs.com/project-list)
+-
+- ### to watch ViuTV under linux:
+  https://aboutme.louislabs.com/project-details/rthk31-rthk32-linux-viewer/#to-watch-viutv-under-linux
+  to install
+-
+- ```
+  $ mpv http://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
+  $ mpv http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+  ```
+  
+  to watch CableTV under linux
+  
+  ```
+  $ mpv http://media.fantv.hk/m3u8/archive/channel2.m3u8
+  ```
+  
+  [](https://aboutme.louislabs.com/project-list)
