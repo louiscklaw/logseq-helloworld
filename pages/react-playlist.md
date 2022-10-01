@@ -2,4 +2,6 @@
 - helloworld react-playlist
 -
 - https://github.com/louiscklaw/devias-kit-pro-5.2
--
+- https://github.com/louiscklaw/gatsbyjs-playlist
+- https://github.com/louiscklaw/preactjs-playlist
+- https://github.com/louiscklaw/nextjs-playlist
