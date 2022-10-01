@@ -18,7 +18,7 @@
   :block/updated-at 1664633245470}
  {:block/name "app-clone-playlist",
   :block/created-at 1664634578898,
-  :block/updated-at 1664634578898}
+  :block/updated-at 1664634864895}
  {:block/name "appium-behave-notes",
   :block/created-at 1664618273378,
   :block/updated-at 1664634271094}
@@ -112,12 +112,12 @@
  {:block/name "my pet project",
   :block/created-at 1664620546589,
   :block/updated-at 1664620690837}
- {:block/name "my portfolio",
-  :block/created-at 1664620724398,
-  :block/updated-at 1664620914015}
  {:block/name "my-linux-toolbox",
   :block/created-at 1664620284623,
   :block/updated-at 1664620324540}
+ {:block/name "my-portfolio",
+  :block/created-at 1664620724398,
+  :block/updated-at 1664635240721}
  {:block/name "nextjs-playlist",
   :block/created-at 1664622750460,
   :block/updated-at 1664631828585}
