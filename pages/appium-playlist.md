@@ -1,1 +1,3 @@
 -
+- ### resources:
+	- https://github.com/louiscklaw/appium-playlist #github
