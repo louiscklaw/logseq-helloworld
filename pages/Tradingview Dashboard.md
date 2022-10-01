@@ -1,5 +1,5 @@
 - ### Purpose
-	- (https://aboutme.louislabs.com/project-details/trading-view-dashboard/#purpose)
+	- https://aboutme.louislabs.com/project-details/trading-view-dashboard/#purpose
 	- A simple page to monitor stock, while data provided by trading view
 - ### Demo:
 	- (https://aboutme.louislabs.com/project-details/trading-view-dashboard/#demo)
