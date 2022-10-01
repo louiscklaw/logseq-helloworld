@@ -49,4 +49,6 @@ brew install git-flow
 -
 - ### resources:
 	- https://github.com/louiscklaw/appium-python-client
+	- https://github.com/louiscklaw/casetify-website-testing-tryout
+	-
 	-
