@@ -47,3 +47,6 @@ brew install git-flow
 - ### fail example
 - {{video https://www.youtube.com/watch?v=uR8VLSwvf9Q}}
 -
+- ### resources:
+	- https://github.com/louiscklaw/appium-python-client
+	-
