@@ -27,7 +27,7 @@
   :block/updated-at 1664638111788}
  {:block/name "appium-behave-notes",
   :block/created-at 1664618273378,
-  :block/updated-at 1664638174211}
+  :block/updated-at 1664638477850}
  {:block/name "appium-playlist",
   :block/created-at 1664634221869,
   :block/updated-at 1664638187560}
@@ -75,7 +75,7 @@
   :block/updated-at 1664634397068}
  {:block/name "docusaurus-playlist",
   :block/created-at 1664636486867,
-  :block/updated-at 1664636508797}
+  :block/updated-at 1664638407059}
  {:block/name "doing",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
@@ -169,6 +169,9 @@
  {:block/name "portfolio",
   :block/created-at 1664617621459,
   :block/updated-at 1664617634284}
+ {:block/name "power-supply-tryout",
+  :block/created-at 1664638585499,
+  :block/updated-at 1664638598533}
  {:block/name "printer",
   :block/created-at 1664637524184,
   :block/updated-at 1664637524184}
@@ -186,7 +189,7 @@
   :block/updated-at 1664622496866}
  {:block/name "react-playlist",
   :block/created-at 1664622466906,
-  :block/updated-at 1664637607935}
+  :block/updated-at 1664638348205}
  {:block/name "real-time-database",
   :block/created-at 1664633316871,
   :block/updated-at 1664633316871}
@@ -207,10 +210,16 @@
   :block/updated-at 1664621691721}
  {:block/name "some-3d-print",
   :block/created-at 1664637514504,
-  :block/updated-at 1664637525298}
+  :block/updated-at 1664638824169}
  {:block/name "status-monitoring",
   :block/created-at 1664633073755,
   :block/updated-at 1664633179995}
+ {:block/name "stm32",
+  :block/created-at 1664638701515,
+  :block/updated-at 1664638701515}
+ {:block/name "stm32-tryout",
+  :block/created-at 1664638694160,
+  :block/updated-at 1664638773208}
  {:block/name "strapi-playlist",
   :block/created-at 1664637833293,
   :block/updated-at 1664637837217}
@@ -229,9 +238,9 @@
  {:block/name "todo",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
- {:block/name "tradingview dashboard",
+ {:block/name "tradingview-dashboard",
   :block/created-at 1664618013317,
-  :block/updated-at 1664618216147}
+  :block/updated-at 1664638523743}
  {:block/name "traefik-tags",
   :block/created-at 1664622304457,
   :block/updated-at 1664622304457}
@@ -258,4 +267,4 @@
   :block/updated-at 1664631710647}
  {:block/name "youtube-split-view-tryout",
   :block/created-at 1664622018451, 
-  :block/updated-at 1664622236924}]
+  :block/updated-at 1664638651289}]
