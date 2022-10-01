@@ -1,6 +1,9 @@
 [{:block/name "+end_export",
   :block/created-at 1664620863794,
   :block/updated-at 1664620863794}
+ {:block/name "3d-print",
+  :block/created-at 1664637524185,
+  :block/updated-at 1664637524185}
  {:block/name "739",
   :block/created-at 1664634002376,
   :block/updated-at 1664634002376}
@@ -79,6 +82,9 @@
  {:block/name "done",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
+ {:block/name "dotfiles",
+  :block/created-at 1664637068883,
+  :block/updated-at 1664637068883}
  {:block/name "esp32-playlist",
   :block/created-at 1664624498715,
   :block/updated-at 1664624498715}
@@ -133,12 +139,12 @@
  {:block/name "mailto:git@github.com",
   :block/created-at 1664633033561,
   :block/updated-at 1664633033561}
- {:block/name "my pet project",
-  :block/created-at 1664620546589,
-  :block/updated-at 1664620690837}
  {:block/name "my-linux-toolbox",
   :block/created-at 1664620284623,
-  :block/updated-at 1664620324540}
+  :block/updated-at 1664637101176}
+ {:block/name "my-pet-project",
+  :block/created-at 1664620546589,
+  :block/updated-at 1664637199887}
  {:block/name "my-portfolio",
   :block/created-at 1664620724398,
   :block/updated-at 1664636347875}
@@ -163,18 +169,24 @@
  {:block/name "portfolio",
   :block/created-at 1664617621459,
   :block/updated-at 1664617634284}
- {:block/name "printer board tryout",
+ {:block/name "printer",
+  :block/created-at 1664637524184,
+  :block/updated-at 1664637524184}
+ {:block/name "printer-board-tryout",
   :block/created-at 1664620937756,
-  :block/updated-at 1664620968979}
+  :block/updated-at 1664637433591}
  {:block/name "puppeteer-playlist",
   :block/created-at 1664636386544,
-  :block/updated-at 1664636426666}
+  :block/updated-at 1664637149672}
+ {:block/name "python",
+  :block/created-at 1664637143106,
+  :block/updated-at 1664637143106}
  {:block/name "react",
   :block/created-at 1664622496866,
   :block/updated-at 1664622496866}
  {:block/name "react-playlist",
   :block/created-at 1664622466906,
-  :block/updated-at 1664622502941}
+  :block/updated-at 1664637607935}
  {:block/name "real-time-database",
   :block/created-at 1664633316871,
   :block/updated-at 1664633316871}
@@ -193,6 +205,9 @@
  {:block/name "slic3r-tryout",
   :block/created-at 1664621506584,
   :block/updated-at 1664621691721}
+ {:block/name "some-3d-print",
+  :block/created-at 1664637514504,
+  :block/updated-at 1664637525298}
  {:block/name "status-monitoring",
   :block/created-at 1664633073755,
   :block/updated-at 1664633179995}
