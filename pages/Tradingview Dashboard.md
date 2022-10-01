@@ -7,4 +7,3 @@
 - ### References / Repositories:
 	- (https://aboutme.louislabs.com/project-details/trading-view-dashboard/#references-or-repositories)
 	- [louiscklaw/tradingview-tile-tryout](https://www.github.com/louiscklaw/tradingview-tile-tryout)
-- [](https://www.github.com/louiscklaw/tradingview-tile-tryout)
