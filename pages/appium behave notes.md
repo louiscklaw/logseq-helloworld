@@ -16,4 +16,11 @@ $ virtualenv venv
 $ source venv/bin/activate
 ```
 ### install python libraries:
-- `$ pip `
+- ```
+  $ pip install -r requirements.txt
+  ```
+- start appium -> connect to android / genymotion appium:
+- ```
+  $ python behave
+  $ behave ./features/HKOApp_9DayForecast.feature
+  ```
