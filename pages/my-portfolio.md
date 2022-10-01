@@ -22,11 +22,9 @@
   - Deploy
 - [:figure {} [:img {:src "https://aboutme.louislabs.com/aa0046e8fe670d49100c7281f976c0d9.svg"}] [:figcaption {}]]
 -
-- ### Some information:
-  https://aboutme.louislabs.com/project-details/portfolio-tryout/#some-information
 -
 - ### production site:
-- https://louiscklaw.github.io/ #github
+	- https://louiscklaw.github.io/ #github
 -
 - ### References / Repositories:
 	- [https://github.com/louiscklaw/portfolio-gatsby](https://github.com/louiscklaw/portfolio-gatsby) #github
@@ -34,9 +32,7 @@
 - ### source code:
 	- https://github.com/louiscklaw/hugo-PaperMod #github
 	- https://github.com/louiscklaw/louiscklaw.github.io-hugo #github
-	-
 -
 - ### links:
 	- https://louiscklaw.github.io
 	- https://aboutme.louislabs.com
-	-
