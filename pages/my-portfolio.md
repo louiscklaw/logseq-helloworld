@@ -29,8 +29,7 @@
 - https://louiscklaw.github.io/ #github
 -
 - ### References / Repositories:
-  https://aboutme.louislabs.com/project-details/portfolio-tryout/#references-or-repositories
-- [https://github.com/louiscklaw/portfolio-gatsby](https://github.com/louiscklaw/portfolio-gatsby) #github
+	- [https://github.com/louiscklaw/portfolio-gatsby](https://github.com/louiscklaw/portfolio-gatsby) #github
 -
 - ### source code:
 	- https://github.com/louiscklaw/hugo-PaperMod #github
