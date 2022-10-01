@@ -1,3 +1,4 @@
+- https://aboutme.louislabs.com/petpugproject_thumbnail.png
 -
 - ### References / Repositories:
 - https://aboutme.louislabs.com/*#references-or-repositories
