@@ -1,4 +1,4 @@
-- #status-monitoring
+- #status-monitoring #javascript #docker
 - upptime
 	- https://louiscklaw.github.io/upptime-playlist/
 - uptime-kuma

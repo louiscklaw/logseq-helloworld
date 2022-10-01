@@ -1,3 +1,3 @@
-- #android #javascript #testing
+- #android #javascript #docker #testing
 - ### resources:
 	- https://github.com/budtmo/docker-android
