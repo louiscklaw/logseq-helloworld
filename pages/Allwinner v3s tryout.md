@@ -38,13 +38,3 @@
   https://aboutme.louislabs.com/project-details/allwinner-v3s-tryout/#bom-or-part-list
 -
 - To be updated
-  
-  
-  
-  [](https://aboutme.louislabs.com/project-list)
--
--
--
--
--
--
