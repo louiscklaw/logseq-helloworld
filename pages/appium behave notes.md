@@ -5,6 +5,15 @@
 	- appium
 	- python 3.6.1, behave, python-appium-client
 -
-- ### to setup:
+- ### To setup:
 - ```
-  ```$ pip `
+  $ pip
+  ```
+### to execute:
+
+```
+$ virtualenv venv
+$ source venv/bin/activate
+```
+### install python libraries:
+- `$ pip `
