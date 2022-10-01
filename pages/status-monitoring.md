@@ -1,0 +1,4 @@
+- upptime
+- uptime-kuma
+- healthcheck
+	-
