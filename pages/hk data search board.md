@@ -5,15 +5,8 @@
 -
 - ### Demo:
 	- https://hk-data-search-8703a.web.app](https://hk-data-search-8703a.web.app)[](https://hk-data-search-8703a.web.app
+-
 - ### References / Repositories:
 - [louiscklaw/hk-data-search](https://www.github.com/louiscklaw/hk-data-search)
-  
-  [](https://www.github.com/louiscklaw/hk-data-search)- 
-  
-  [](https://www.github.com/louiscklaw/hk-data-search)
 - [https://travis-ci.com/github/louiscklaw/hk-data-search](https://travis-ci.com/github/louiscklaw/hk-data-search)
-- [](https://travis-ci.com/github/louiscklaw/hk-data-search)
-  
-  [](https://aboutme.louislabs.com/project-list)
-  
-  [](https://aboutme.louislabs.com/project-list)
+-
