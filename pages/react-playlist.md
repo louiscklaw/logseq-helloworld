@@ -5,3 +5,4 @@
 - https://github.com/louiscklaw/gatsbyjs-playlist
 - https://github.com/louiscklaw/preactjs-playlist
 - https://github.com/louiscklaw/nextjs-playlist
+- [storybook-playlist](https://github.com/louiscklaw/storybook-playlist)
