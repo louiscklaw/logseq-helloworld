@@ -45,15 +45,14 @@
   https://aboutme.louislabs.com/project-details/rthk31-rthk32-linux-viewer/#to-watch-viutv-under-linux
   to install
 -
-- ```
+- ```bash
   $ mpv http://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
   $ mpv http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
   ```
-  
   to watch CableTV under linux
   
   ```
   $ mpv http://media.fantv.hk/m3u8/archive/channel2.m3u8
   ```
-  
-  [](https://aboutme.louislabs.com/project-list)
+- [12](https://aboutme.louislabs.com/project-list)
+-
