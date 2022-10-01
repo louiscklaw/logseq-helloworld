@@ -12,3 +12,5 @@
 	- [louiscklaw/tradingview-tile-tryout](https://www.github.com/louiscklaw/tradingview-tile-tryout)
 	- https://github.com/louiscklaw/yahoo-finance-playlist
 	- https://github.com/louiscklaw/tradingview-tile-tryout
+	- https://github.com/louiscklaw/aastock-tile-tryout
+	-
