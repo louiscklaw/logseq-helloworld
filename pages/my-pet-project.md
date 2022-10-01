@@ -1,7 +1,7 @@
 - https://aboutme.louislabs.com/petpugproject_thumbnail.png
+- #javascript #python
 -
 - ### References / Repositories:
-- https://aboutme.louislabs.com/*#references-or-repositories
 	- [louiscklaw/travis-playlist](https://www.github.com/louiscklaw/travis-playlist)
 	- [louiscklaw/gatsbyjs-playlist](https://www.github.com/louiscklaw/gatsbyjs-playlist)
 	- [louiscklaw/python-playlist](https://www.github.com/louiscklaw/python-playlist)
