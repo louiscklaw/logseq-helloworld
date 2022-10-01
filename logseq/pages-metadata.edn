@@ -24,7 +24,7 @@
   :block/updated-at 1664634271094}
  {:block/name "appium-playlist",
   :block/created-at 1664634221869,
-  :block/updated-at 1664634244759}
+  :block/updated-at 1664635677347}
  {:block/name "awesome-logseq",
   :block/created-at 1664632382045,
   :block/updated-at 1664632404117}
@@ -76,6 +76,9 @@
  {:block/name "firebase-playlist",
   :block/created-at 1664618782788,
   :block/updated-at 1664633316873}
+ {:block/name "github",
+  :block/created-at 1664635410076,
+  :block/updated-at 1664635410076}
  {:block/name "hello-portfolio",
   :block/created-at 1663138995870,
   :block/updated-at 1664620345576}
@@ -117,7 +120,7 @@
   :block/updated-at 1664620324540}
  {:block/name "my-portfolio",
   :block/created-at 1664620724398,
-  :block/updated-at 1664635240721}
+  :block/updated-at 1664635627005}
  {:block/name "nextjs-playlist",
   :block/created-at 1664622750460,
   :block/updated-at 1664631828585}
