@@ -1,5 +1,5 @@
 - [[Tradingview Dashboard]]
 - [[appium behave notes]]
-- [[]]
-# Allwinner v3s tryout
+- [[Allwinner v3s tryout]]
+-
 - [[firebase]]
