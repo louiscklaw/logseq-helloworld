@@ -1,9 +1,7 @@
 - #testing #ci
 - ### Background information:
-  
-  
-  This is my portfolio.
-  This website contains my project information.
+	- This is my portfolio.
+	- This website contains my project information.
 -
 - ### Build flow:
   https://aboutme.louislabs.com/project-details/portfolio-tryout/#build-flow
