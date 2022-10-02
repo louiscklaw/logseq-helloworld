@@ -4,7 +4,8 @@
 - ### References / Repositories:
 	- https://www.github.com/louiscklaw/hko-weather-slackbot
 -
-- slackapi/python-slackclient
-- https://github.com/louiscklaw/rasa-demo
 -
+- ### TODO:
+	- slackapi/python-slackclient
+	- https://github.com/louiscklaw/rasa-demo
 -
