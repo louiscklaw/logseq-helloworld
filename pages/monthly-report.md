@@ -1,4 +1,5 @@
--
+- ### Currently:
+	- blablabla1
 -
 - ### TODO:
 	- https://www.misterngan.com/page/117/
