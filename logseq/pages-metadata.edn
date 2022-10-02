@@ -22,9 +22,6 @@
  {:block/name "app-clone-playlist",
   :block/created-at 1664640456365,
   :block/updated-at 1664640456365}
- {:block/name "appium behave notes",
-  :block/created-at 1664618273378,
-  :block/updated-at 1664619035969}
  {:block/name "appium-behave-notes",
   :block/created-at 1664640456491,
   :block/updated-at 1664640456491}
@@ -118,9 +115,6 @@
  {:block/name "hk data search board",
   :block/created-at 1664619559423,
   :block/updated-at 1664619685496}
- {:block/name "hko weather bot tryout",
-  :block/created-at 1664619780785,
-  :block/updated-at 1664620258208}
  {:block/name "hko-weather-bot-tryout",
   :block/created-at 1664640457450,
   :block/updated-at 1664723328284}
@@ -153,13 +147,7 @@
   :block/updated-at 1664724236382}
  {:block/name "monthly-report",
   :block/created-at 1664723426230,
-  :block/updated-at 1664725160872}
- {:block/name "my pet project",
-  :block/created-at 1664620546589,
-  :block/updated-at 1664620690837}
- {:block/name "my portfolio",
-  :block/created-at 1664620724398,
-  :block/updated-at 1664620914015}
+  :block/updated-at 1664729468844}
  {:block/name "my-linux-toolbox",
   :block/created-at 1664620284623,
   :block/updated-at 1664637101176}
@@ -175,12 +163,6 @@
  {:block/name "now",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
- {:block/name "oct 1st, 2022",
-  :block/created-at 1664729405926,
-  :block/updated-at 1664729405926}
- {:block/name "oct 2nd, 2022",
-  :block/created-at 1664723366573,
-  :block/updated-at 1664723366573}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664729291309,
   :block/updated-at 1664729291309}
@@ -202,9 +184,6 @@
  {:block/name "printer",
   :block/created-at 1664640458479,
   :block/updated-at 1664640458479}
- {:block/name "printer board tryout",
-  :block/created-at 1664620937756,
-  :block/updated-at 1664620968979}
  {:block/name "printer-board-tryout",
   :block/created-at 1664640458209,
   :block/updated-at 1664640458209}
@@ -274,15 +253,9 @@
  {:block/name "todo",
   :block/created-at 1663137142886,
   :block/updated-at 1663137142886}
- {:block/name "tradingview dashboard",
-  :block/created-at 1664618013317,
-  :block/updated-at 1664618216147}
  {:block/name "tradingview-dashboard",
   :block/created-at 1664640458879,
   :block/updated-at 1664640458879}
- {:block/name "traefik tryout",
-  :block/created-at 1664621772935,
-  :block/updated-at 1664622304458}
  {:block/name "traefik-tags",
   :block/created-at 1664622304457,
   :block/updated-at 1664622304457}
