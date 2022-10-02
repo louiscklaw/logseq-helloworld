@@ -1,11 +1,10 @@
 - ### Purpose:
-	- https://aboutme.louislabs.com/*#purpose
-- This is a simple chatbot that help ask weather of hong kong. screenshot still preparing.
+	- This is a simple chatbot that help ask weather of hong kong. screenshot still preparing.
 -
 - ### References / Repositories:
-	- https://aboutme.louislabs.com/*#references-or-repositories
 	- https://www.github.com/louiscklaw/hko-weather-slackbot
 -
 - slackapi/python-slackclient
 - https://github.com/louiscklaw/rasa-demo
+-
 -
