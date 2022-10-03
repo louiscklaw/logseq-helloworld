@@ -17,7 +17,7 @@
   [:figure {} [:img {:src "https://aboutme.louislabs.com/visual_regression.png"}] [:figcaption {} "sample of visual regression test"]]
   ```
 - - Merge
-  - Deploy
+	- Deploy
 - [:figure {} [:img {:src "https://aboutme.louislabs.com/aa0046e8fe670d49100c7281f976c0d9.svg"}] [:figcaption {}]]
 -
 -
@@ -34,3 +34,6 @@
 - ### links:
 	- https://louiscklaw.github.io
 	- https://aboutme.louislabs.com
+-
+- ### TODO:
+	- power point self-introduction (no more than 4 slide)
