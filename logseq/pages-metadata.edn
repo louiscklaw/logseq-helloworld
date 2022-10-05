@@ -225,7 +225,7 @@
   :block/updated-at 1664640458483}
  {:block/name "status-monitoring",
   :block/created-at 1664640458589,
-  :block/updated-at 1664640458589}
+  :block/updated-at 1664944511772}
  {:block/name "stm32",
   :block/created-at 1664640458631,
   :block/updated-at 1664640458631}

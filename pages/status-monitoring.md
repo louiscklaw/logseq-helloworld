@@ -3,5 +3,6 @@
 	- https://louiscklaw.github.io/upptime-playlist/
 - uptime-kuma
 	- http://192.168.10.61:50102/dashboard
+		- e2e testing: https://github.com/louislam/uptime-kuma/pull/1780
 - healthcheck
 	- https://healthcheck.iamon99.com/accounts/login/
