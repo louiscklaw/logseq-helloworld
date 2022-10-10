@@ -1,3 +1,5 @@
+public:: true
+
 - ### Link:
 - http://louiscklaw.github.io/
 - https://aboutme.louislabs.com/
@@ -11,5 +13,5 @@
 - ### google advertisement:
 - to be filled
 - # status
-- [![Build and Deploy](https://github.com/louiscklaw/dashboard-tryout/actions/workflows/deploy_gh_pages.yml/badge.svg)](https://github.com/louiscklaw/dashboard-tryout/actions/workflows/deploy_gh_pages.yml)
+- ![Build and Deploy](https://github.com/louiscklaw/dashboard-tryout/actions/workflows/deploy_gh_pages.yml/badge.svg)
 -
