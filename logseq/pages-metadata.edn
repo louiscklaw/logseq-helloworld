@@ -166,6 +166,9 @@
  {:block/name "oct 10th, 2022",
   :block/created-at 1665373748930,
   :block/updated-at 1665373748930}
+ {:block/name "oct 11th, 2022",
+  :block/created-at 1665430658408,
+  :block/updated-at 1665430658408}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664729291309,
   :block/updated-at 1664729291309}
@@ -186,7 +189,7 @@
   :block/updated-at 1664640458045}
  {:block/name "portfolio",
   :block/created-at 1664617621459,
-  :block/updated-at 1664617634284}
+  :block/updated-at 1665431822047}
  {:block/name "power-supply-tryout",
   :block/created-at 1664640458166,
   :block/updated-at 1664640458166}
