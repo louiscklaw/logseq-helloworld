@@ -1,5 +1,11 @@
 - #crawlab
 -
-- ### notes:
-- it is
+- ### journals:
+- It is something like jenkins, running sh file and do the task
+- distributed noted arch.
+- scheduling
+- parsing
+- user control
+- task dependencies
 -
+- something h
