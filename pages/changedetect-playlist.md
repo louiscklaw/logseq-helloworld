@@ -1,4 +1,5 @@
 - ### Links:
-	-
-- https://changedetect.iamon99.com/
-- https://taobao-changedetect.iamon99.com/
+	- https://changedetect.iamon99.com/
+	- https://taobao-changedetect.iamon99.com/
+	- https://private-changedetect.iamon99.com/
+	- https://carousell-changedetect.iamon99.com/
