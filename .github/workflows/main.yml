@@ -5,7 +5,7 @@ on:
       - master
 
 jobs:
-  action_secrets_tryout:
+  publish_logseq_graphs:
     runs-on: ubuntu-latest
 
     steps:
