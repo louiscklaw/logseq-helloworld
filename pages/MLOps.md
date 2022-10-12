@@ -1,0 +1,9 @@
+- ### data prep
+- ### develop
+- ### train
+- ### review
+- ### deploy
+- ### inference
+- ### monitor
+- ### EDA
+-
