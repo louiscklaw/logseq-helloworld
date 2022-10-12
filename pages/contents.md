@@ -1,4 +1,7 @@
-- working_dir
+- ### Repo:
+	- https://github.com/louiscklaw/logseq-helloworld
+	-
+- ### working_dir
 	- `D:\_workspace\logseq-helloworld`
 -
 - https://louiscklaw.github.io/logseq-helloworld/#/page/Contents
