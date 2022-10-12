@@ -8,6 +8,11 @@
 	- ### deploy
 	- ### inference
 	- ### monitor
-	- ### EDA
+	- ### EDA (**Exploratory data analysis**)
 -
 - ![](https://www.databricks.com/wp-content/uploads/2021/12/MLOps-Components.png)
+-
+-
+-
+-
+-
