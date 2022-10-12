@@ -1,9 +1,13 @@
-- ### data prep
-- ### develop
-- ### train
-- ### review
-- ### deploy
-- ### inference
-- ### monitor
-- ### EDA
+- ![](https://www.databricks.com/wp-content/uploads/2021/12/MLOps-Cycle.png)
 -
+- # steps
+	- ### data prep
+	- ### develop
+	- ### train
+	- ### review
+	- ### deploy
+	- ### inference
+	- ### monitor
+	- ### EDA
+-
+- ![](https://www.databricks.com/wp-content/uploads/2021/12/MLOps-Components.png)
