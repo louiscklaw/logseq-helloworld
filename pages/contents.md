@@ -1,7 +1,8 @@
 - ### Repo:
-	- https://github.com/louiscklaw/logseq-helloworld
-	-
+  - https://github.com/louiscklaw/logseq-helloworld
+  -
 - ### working_dir
-	- `D:\_workspace\logseq-helloworld`
+  - `D:\_workspace\logseq-helloworld`
 -
 - https://louiscklaw.github.io/logseq-helloworld/#/page/Contents
+-
