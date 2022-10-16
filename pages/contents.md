@@ -4,6 +4,7 @@
 - ### working_dir
 	- `D:\_workspace\logseq-helloworld`
 	- `~/_workspace/logseq-helloworld`
+- nvidia
 -
 - https://louiscklaw.github.io/logseq-helloworld/#/page/Contents
 -
