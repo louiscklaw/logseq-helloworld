@@ -18,7 +18,9 @@
 -
 - https://www.youtube.com/watch?v=BAMhYj-zpJE
 -
-- {{youtube BAMhYj-zpJE}}
+-
+- ### youtube example:
+	- {{youtube BAMhYj-zpJE}}
 -
 - ### BOM:
 	- https://world.taobao.com/product/jetson.htm
