@@ -18,6 +18,9 @@
 -
 - https://www.youtube.com/watch?v=BAMhYj-zpJE
 -
+- {{youtube BAMhYj-zpJE}}
+-
 - ### BOM:
 	- https://world.taobao.com/product/jetson.htm
+	- TT-02 https://world.taobao.com/product/tt02.htm?priceRange=300-
 	- TT-02 https://world.taobao.com/product/tt02.htm?priceRange=300-
