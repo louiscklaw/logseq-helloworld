@@ -1,4 +1,5 @@
 - #3d-print #voron
+- ## Voron 2.2
 - ### Purpose:
   https://aboutme.louislabs.com/project-details/voron-tryout/#purpose
 - to build a opensource 3d printer named voron
@@ -14,10 +15,10 @@
   https://aboutme.louislabs.com/project-details/voron-tryout/#parts-library
 	- [https://www.traceparts.com/](https://www.traceparts.com/)
 -
-- ### Voron-Trident
 -
+- ## Voron-Trident
 - #### Repository
 - https://github.com/louiscklaw/Voron-Trident
 	-
 - #### worksheet
--
+- https://docs.google.com/spreadsheets/d/1BWfF28YSMLRVvmIrBtX7r5ABJAbR0lbhchCRPk_AjrQ
