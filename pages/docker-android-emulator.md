@@ -1,3 +1,7 @@
-- #android #javascript #docker #testing
+- #android #javascript #docker #testing #appium
+-
+- ### repository:
+	- appium-playlist
+-
 - ### resources:
 	- https://github.com/budtmo/docker-android

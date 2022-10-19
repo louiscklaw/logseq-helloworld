@@ -1,0 +1,3 @@
+- #jetson #nvidia
+- https://www.youtube.com/watch?v=BAMhYj-zpJE
+-
