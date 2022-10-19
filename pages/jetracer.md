@@ -1,8 +1,8 @@
 - #jetson #nvidia
 -
 - ### taobao
-	-
-	- https://detail.tmall.com/item.htm?id=608361510286
+	- Jetson Nano 4GB B01开发板套件英伟达AI人脸识别Python视觉ROS
+		- https://detail.tmall.com/item.htm?id=608361510286
 	-
 - ### youtube
 	- https://www.youtube.com/watch?v=BAMhYj-zpJE
