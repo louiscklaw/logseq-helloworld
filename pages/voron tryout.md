@@ -14,3 +14,8 @@
   https://aboutme.louislabs.com/project-details/voron-tryout/#parts-library
 	- [https://www.traceparts.com/](https://www.traceparts.com/)
 -
+- ### Voron-Trident
+-
+- ##### Repository
+-
+-
