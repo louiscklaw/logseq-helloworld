@@ -1,7 +1,9 @@
 - #jetson #nvidia
 -
-- ###
--
+- ### taobao
+	-
+	- https://detail.tmall.com/item.htm?id=608361510286
+	-
 - ### youtube
 	- https://www.youtube.com/watch?v=BAMhYj-zpJE
 -
