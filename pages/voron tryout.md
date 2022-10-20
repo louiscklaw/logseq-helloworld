@@ -21,4 +21,4 @@
 - https://github.com/louiscklaw/Voron-Trident
 	-
 - #### worksheet
-- https://docs.google.com/spreadsheets/d/1BWfF28YSMLRVvmIrBtX7r5ABJAbR0lbhchCRPk_AjrQ
+- https://docs.google.com/spreadsheets/d/1KLC1hrCHCfnMSdkpYEkUFXevi_sLdlzJEW3qjcPp3B0/edit?usp=sharing
