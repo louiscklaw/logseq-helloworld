@@ -12,6 +12,7 @@
 	- https://docs.google.com/spreadsheets/d/1KLC1hrCHCfnMSdkpYEkUFXevi_sLdlzJEW3qjcPp3B0
 -
 - jetson versions:
-- |name|link|
-  |--|--|
-  |JETSON NANO 4GB开发板套件AI边缘计算人工智能视觉识别B01核心板|
+- |name|link|price|
+  |--|--|--|
+  |JETSON NANO 4GB开发板套件AI边缘计算人工智能视觉识别B01核心板|https://item.taobao.com/item.htm?id=595685609959|1399.00|
+-
