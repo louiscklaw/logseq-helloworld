@@ -20,9 +20,7 @@
   I have done everything I can to convince M.P.s to back that deal.
   
   Sadly, I have not been able to do so.
-- Thanks for reading The Times.
-  
-  I tried three times.
+- I tried three times.
   
   I believe it was right to persevere, even when the odds against success seemed high.
   
