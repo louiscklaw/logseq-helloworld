@@ -21,5 +21,5 @@
 - [manual](https://raw.githubusercontent.com/VoronDesign/Voron-Trident/main/Manual/Assembly_Manual_Trident.pdf)
 -
 - Repository [github](https://github.com/louiscklaw/Voron-Trident)
-	-
+-
 - worksheet [google worksheet](https://docs.google.com/spreadsheets/d/1BWfF28YSMLRVvmIrBtX7r5ABJAbR0lbhchCRPk_AjrQ)
