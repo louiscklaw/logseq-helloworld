@@ -80,16 +80,10 @@
   
   And it is why I set up the independent public inquiry into the tragedy at Grenfell Tower — to search for the truth, so nothing like it can ever happen again, and so the people who lost their lives that night are never forgotten.
   
-  Because this country is a Union.
-  
-  Not just a family of four nations.
-  
-  But a union of people — all of us.
+  Because this country is a Union. Not just a family of four nations. But a union of people — all of us.
   
   Whatever our background, the color of our skin, or who we love.
-  
-  We stand together.
-  
+- We stand together.
   And together we have a great future.
   
   Our politics may be under strain, but there is so much that is good about this country. So much to be proud of. So much to be optimistic about.
