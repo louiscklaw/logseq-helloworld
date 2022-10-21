@@ -18,7 +18,7 @@
 -
 - ## Voron-Trident
 - #### Repository
-- https://github.com/louiscklaw/Voron-Trident
-	-
+	- [github](https://github.com/louiscklaw/Voron-Trident)
+		-
 - #### worksheet
 	- [google worksheet](https://docs.google.com/spreadsheets/d/1BWfF28YSMLRVvmIrBtX7r5ABJAbR0lbhchCRPk_AjrQ)
