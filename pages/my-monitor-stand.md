@@ -1,6 +1,7 @@
 - #maker #3030 #aluminum-profile
 -
 - fusion360 link:
+	- https://a360.co/3CRhNSv
 	-
 - ### BOM / worksheet:
 	- https://docs.google.com/spreadsheets/d/1VkJmz21TFniHFH8iA10WR9uRlRXz5gRbw-F54Wb1xWo
