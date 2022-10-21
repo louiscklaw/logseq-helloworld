@@ -10,7 +10,8 @@
   
   Against all predictions, the British people voted to leave the European Union.
   
-  I feel as certain today as I did three years ago that in a democracy, if you give people a choice you have a duty to implement what they decide.
+  I feel as certain today as I did three years ago that in a democracy,
+- if you give people a choice you have a duty to implement what they decide.
   
   I have done my best to do that.
   
@@ -20,8 +21,6 @@
   
   Sadly, I have not been able to do so.
 - Thanks for reading The Times.
-  
-  [Subscribe to The Times](https://www.nytimes.com/subscription?campaignId=9L9L9)
   
   I tried three times.
   
