@@ -12,6 +12,6 @@
 	- https://docs.google.com/spreadsheets/d/1KLC1hrCHCfnMSdkpYEkUFXevi_sLdlzJEW3qjcPp3B0
 -
 - jetson versions:
-- |hello|world|
+- |name|link|
   |--|--|
-  |1|2|
+  |JETSON NANO 4GB开发板套件AI边缘计算人工智能视觉识别B01核心板|
