@@ -1,4 +1,5 @@
 - #jetson #nvidia
+<<<<<<< HEAD
 -
 - ### taobao
 	- Jetson Nano 4GB B01开发板套件英伟达AI人脸识别Python视觉ROS
@@ -16,3 +17,10 @@
   |--|--|--|
   |JETSON NANO 4GB开发板套件AI边缘计算人工智能视觉识别B01核心板|https://item.taobao.com/item.htm?id=595685609959|1399.00|
 -
+=======
+- https://www.youtube.com/watch?v=BAMhYj-zpJE
+-
+- ### BOM:
+	- https://world.taobao.com/product/jetson.htm
+	-
+>>>>>>> 539fe7a (Auto saved by Logseq)
