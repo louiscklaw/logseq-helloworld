@@ -1,0 +1,12 @@
+- #maker #3030 #aluminum-profile #fusion360
+-
+- working directory:
+- fusion360 link:
+	- stand1:
+		- [https://a360.co/3SoeVlR](https://a360.co/3SoeVlR)
+	- stand2:
+		- [https://a360.co/3CRhNSv](https://a360.co/3CRhNSv)
+-
+- ### BOM / worksheet:
+	- [google sheet](https://docs.google.com/spreadsheets/d/1d7DltKKTejsFhcDHg-RRcTBZXGG7uTbGLEmiLcJ1mQs)
+	-
