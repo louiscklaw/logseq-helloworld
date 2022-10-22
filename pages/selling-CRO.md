@@ -1,0 +1,8 @@
+- #carousell
+-
+- https://www.carousell.com.hk/p/rigol普源-100m数字存储示波器-ds1054z-四通道-舊機重生-1171928226/
+-
+- things to remember:
+	- 要同淘宝比較
+		- https://s.taobao.com/search?q=RIGOL普源DS1054Z
+		-
