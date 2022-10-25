@@ -1,0 +1,6 @@
+- #appium #testing
+-
+-
+-
+- BOM:
+	- https://docs.google.com/spreadsheets/d/1pcP3x0ejMBr7scGuHOP2tLNko27h83g47JPfxIJjlhI/edit?usp=sharing
