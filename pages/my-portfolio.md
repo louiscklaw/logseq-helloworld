@@ -37,3 +37,6 @@
 -
 - ### TODO:
 	- power point self-introduction (no more than 4 slide)
+-
+- link tree:
+	- https://linktr.ee/admin/appearance
