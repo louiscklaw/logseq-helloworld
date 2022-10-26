@@ -1,6 +1,10 @@
 - #appium #testing
 -
+- Fusion 360 path:
+	- /home/projects/mobile-test-stand
+	- https://a360.co/3stwVAP
 -
+- BOM/worksheet:
+	- https://docs.google.com/spreadsheets/d/1pcP3x0ejMBr7scGuHOP2tLNko27h83g47JPfxIJjlhI
+	-
 -
-- BOM:
-	- https://docs.google.com/spreadsheets/d/1pcP3x0ejMBr7scGuHOP2tLNko27h83g47JPfxIJjlhI/edit?usp=sharing
