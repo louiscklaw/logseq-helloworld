@@ -1,10 +1,12 @@
 - #appium #testing
 -
-- Fusion 360 path:
+- ### Fusion 360 path:
 	- /home/projects/mobile-test-stand
 	- https://a360.co/3stwVAP
 -
-- BOM/worksheet:
+- ### BOM/worksheet:
 	- https://docs.google.com/spreadsheets/d/1pcP3x0ejMBr7scGuHOP2tLNko27h83g47JPfxIJjlhI
 	-
+- ### References:
+	- https://www.printables.com/model/3407-articulating-raspberry-pi-camera-mount-for-prusa-m/files
 -
