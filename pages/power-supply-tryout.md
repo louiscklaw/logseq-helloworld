@@ -1,2 +1,9 @@
 - #kicad #3d-print
-- https://github.com/louiscklaw/opendps-tryout
+-
+- ### Fusion360
+	- /home/project/my-power-supply
+-
+-
+-
+- ### Repository:
+	- https://github.com/louiscklaw/opendps-tryout

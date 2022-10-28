@@ -1,0 +1,2 @@
+- #kicad #3d-print
+- https://github.com/louiscklaw/opendps-tryout
