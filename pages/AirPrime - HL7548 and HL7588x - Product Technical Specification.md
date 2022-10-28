@@ -1,0 +1,6 @@
+- #sierrawireless #at-command #intel #modem
+-
+-
+- ### 5.12. +CPIN Command: Enter Pin
+- ### 5.13. +CPIN2 Command: Enter Pin2
+-
