@@ -17,4 +17,9 @@
 	-
 - ### progress
 	- 2022-10-28, design frozen, order 2020 profile @taobao
+-
+- **### ref for stands**
+	- https://www.thingiverse.com/thing:1471349
+	- https://www.thingiverse.com/thing:1478760
+	- https://www.thingiverse.com/thing:706035
 	-
