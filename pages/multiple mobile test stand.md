@@ -11,6 +11,10 @@
 - ### References:
 	- https://www.printables.com/model/3407-articulating-raspberry-pi-camera-mount-for-prusa-m/files
 -
+- ### Repository
+	- [https://github.com/louiscklaw/mobile-test-stand-tryout](https://github.com/louiscklaw/mobile-test-stand-tryout)
+	- d:\\_workspace\mobile-test-stand-tryout
+	-
 - ### progress
 	- 2022-10-28, design frozen, order 2020 profile @taobao
 	-
