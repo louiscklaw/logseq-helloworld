@@ -1,4 +1,4 @@
-- #appium #testing #in-progress
+- #appium #testing #in-progress #test-stand
 -
 - ### Fusion 360 path:
 	- /home/projects/mobile-test-stand
@@ -13,10 +13,14 @@
 -
 - ### Repository
 	- [https://github.com/louiscklaw/mobile-test-stand-tryout](https://github.com/louiscklaw/mobile-test-stand-tryout)
-	- d:\\_workspace\mobile-test-stand-tryout
+	- /_workspace/mobile-test-stand-tryout
 	-
 - ### progress
 	- 2022-10-28, design frozen, order 2020 profile @taobao
+-
+- ### components:
+	- https://en.wikipedia.org/wiki/ATX
+		- ![https://upload.wikimedia.org/wikipedia/commons/0/04/ATX_PS_signals.svg](https://upload.wikimedia.org/wikipedia/commons/0/04/ATX_PS_signals.svg){:height 711, :width 392}
 -
 - **### ref for stands**
 	- https://www.thingiverse.com/thing:1471349

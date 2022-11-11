@@ -15,5 +15,14 @@
 -
 - https://meny-manage.menymeny.com/login
 - https://meny-admin.menymeny.com/login
+- https://meny-app.menymeny.com/login
 -
+-
+- ### Overall Flow and Schedule
+- 1. contact us
+  2. consulation
+  3. estimate
+  4. contract signing
+  5. content creation
+  6. launch
 -
