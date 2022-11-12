@@ -18,12 +18,12 @@
 -
 - ### working directory:
 	- http://localhost:8082/dashboard
+	- /home/logic/_workspace/nextjs-playlist
 	-
--
-- https://meny-manage.menymeny.com/login
-- https://meny-admin.menymeny.com/login
-- https://meny-app.menymeny.com/login
--
+- ### site:
+	- https://meny-manage.menymeny.com
+	- https://meny-admin.menymeny.com
+	- https://meny-app.menymeny.com
 -
 - ### Overall Flow and Schedule
 - 1. contact us
