@@ -1,4 +1,5 @@
 - #schema #cms #mall-learning #商品模块数据库表解析
+  id:: 636f34bc-2b32-41aa-aa62-9be0225bee16
 -
 - ```
   create table pms_product_vertify_record
