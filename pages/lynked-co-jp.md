@@ -13,6 +13,13 @@
 	- Timber (for logging in debug mode and as a helper for error reporting in production mode)
 -
 -
+- ### status:
+	- revamp
+-
+- ### working directory:
+	- http://localhost:8082/dashboard
+	-
+-
 - https://meny-manage.menymeny.com/login
 - https://meny-admin.menymeny.com/login
 - https://meny-app.menymeny.com/login
