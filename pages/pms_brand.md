@@ -1,5 +1,7 @@
 - #schema #cms
 -
+- source:
+- https://macrozheng.github.io/mall-learning/#/database/mall_pms_01?id=商品品牌表
 -
 - ```
   create table pms_brand
