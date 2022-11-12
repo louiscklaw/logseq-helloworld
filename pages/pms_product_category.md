@@ -1,4 +1,6 @@
-- #schema
+title:: pms_product_category
+
+- #schema #cms
 -
 - ### Content
 -
@@ -25,4 +27,5 @@
   ```
 -
 - ![https://macrozheng.github.io/mall-learning/images/database_screen_02.png](https://macrozheng.github.io/mall-learning/images/database_screen_02.png)
+- ![https://macrozheng.github.io/mall-learning/images/database_screen_01.png](https://macrozheng.github.io/mall-learning/images/database_screen_01.png)
 -
