@@ -1,4 +1,4 @@
-- #schema #cms
+- #schema #cms #mall-learning #商品模块数据库表解析
 -
 - source:
 - https://macrozheng.github.io/mall-learning/#/database/mall_pms_01?id=商品品牌表

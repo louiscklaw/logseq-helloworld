@@ -1,4 +1,4 @@
-- #schema #cms
+- #schema #cms #mall-learning #商品模块数据库表解析
 -
 - ### pms_product_category
 - ```
@@ -24,3 +24,4 @@
 - ![https://macrozheng.github.io/mall-learning/images/database_screen_02.png](https://macrozheng.github.io/mall-learning/images/database_screen_02.png)
 - ![https://macrozheng.github.io/mall-learning/images/database_screen_01.png](https://macrozheng.github.io/mall-learning/images/database_screen_01.png)
 -
+- ![https://macrozheng.github.io/mall-learning/images/database_screen_03.png](https://macrozheng.github.io/mall-learning/images/database_screen_03.png)
