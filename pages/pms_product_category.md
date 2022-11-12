@@ -1,9 +1,4 @@
-title:: pms_product_category
-
 - #schema #cms
--
-- ### Content
--
 -
 - ### pms_product_category
 - ```
