@@ -3,4 +3,10 @@
 	- customer made a computer case
 -
 - ### BOM:
+	- https://docs.google.com/spreadsheets/d/1pc_xAqJoNh_CvFntg031hgFvwsFO9QleXcq25T-P8A8
 	-
+-
+- ### References:
+	- https://www.youtube.com/watch?v=1AEnvsunN34
+-
+	- youtube
