@@ -2,4 +2,5 @@
 - ### Purpose:
 	- customer made a computer case
 -
-- BOM
+- ### BOM:
+	-
