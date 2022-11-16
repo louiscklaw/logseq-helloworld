@@ -1,5 +1,6 @@
 - ### revamp portfolio again
 	- https://louiscklaw.github.io/
 -
--
-- [[lynked-co-jp]]
+- ### revamp restaurant reservation system
+	- [[lynked-co-jp]]
+	- /home/logic/_workspace/test_cms_tryout/frontend/restaurant_cms
