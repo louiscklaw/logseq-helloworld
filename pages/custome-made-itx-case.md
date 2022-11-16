@@ -1,0 +1,5 @@
+- #carousell #itx #maker
+- ### Purpose:
+	- customer made a computer case
+-
+- BOM
