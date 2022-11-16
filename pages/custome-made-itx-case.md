@@ -8,7 +8,5 @@
 	-
 -
 - ### References:
-	-
--
 	- {{video 1AEnvsunN34}}
 -
