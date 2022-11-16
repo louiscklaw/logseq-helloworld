@@ -1,4 +1,5 @@
-- #carousell #itx #maker
+- #carousell #itx #maker #TODO
+-
 - ### Purpose:
 	- customer made a computer case
 -
@@ -7,6 +8,7 @@
 	-
 -
 - ### References:
-	- https://www.youtube.com/watch?v=1AEnvsunN34
+	-
 -
-	- youtube
+	- {{video 1AEnvsunN34}}
+-
