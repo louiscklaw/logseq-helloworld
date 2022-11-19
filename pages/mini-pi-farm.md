@@ -1,6 +1,8 @@
 - #TODO #raspberry-pi #docker
 -
--
+- ### Purpose
+	- to make a mini raspberry pi farm
+	-
 -
 -
 - ### BOM:
