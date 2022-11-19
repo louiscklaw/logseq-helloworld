@@ -1,10 +1,12 @@
 - #TODO #raspberry-pi #docker
-- #browserless #puppeteer-playlist #puppeteer
+- #browserless #puppeteer-playlist #puppeteer #playwright
 -
 - ### Purpose
 	- to make a mini raspberry pi farm
 	-
--
+- ### application
+	- scraping
+		- git@github.com:louiscklaw/puppeteer-playlist.git
 -
 - ### BOM:
 	- https://docs.google.com/spreadsheets/d/15-rP9jzcKmzwn0NDrL0kd6JrfnUixsfEzuC7AE6KcG8
